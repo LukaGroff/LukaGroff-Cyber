@@ -16,6 +16,7 @@ I'm new to cybersecurity, but I'm very passionate about it and love tackling com
 - **[Threat Hunting Scenario (Papertrail)](https://github.com/LukaGroff/threat-hunting-scenario-Papertrail/tree/main)**
 - **[Threat Hunting Scenario (Virtual Machine Compromise)](https://github.com/LukaGroff/threat-hunting-scenario-SOC-Challenge-Virtual-Machine-Compromise/tree/main)**
 - **[Threat Hunting Scenario (Assistance)](https://github.com/LukaGroff/threat-hunting-scenario-Assistance/tree/main)**
+- **[Threat Hunting Scenario (Azuki Import/Export)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Azuki-soc-investigation.md)**
 
 
 
