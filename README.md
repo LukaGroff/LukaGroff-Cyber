@@ -12,7 +12,7 @@ I'm new to cybersecurity, but I'm very passionate about it and love tackling com
 
 - **[Threat Hunting Scenario (The Great Admin Heist)](https://github.com/LukaGroff/Threat-Hunt/blob/main/The-Great-Admin-Heist.md)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Unauthorized%20TOR%20Usage.md)**
-- **[Threat Hunting Scenario (Lurker)](hhttps://github.com/LukaGroff/Threat-Hunt/blob/main/Lurker.md)**
+- **[Threat Hunting Scenario (Lurker)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Lurker.md)**
 - **[Threat Hunting Scenario (Papertrail)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Papertrail.md)**
 - **[Threat Hunting Scenario (Virtual Machine Compromise)](https://github.com/LukaGroff/Threat-Hunt/blob/main/SOC%20Challenge%3A%20Virtual%20Machine%20Compromise.md)**
 - **[Threat Hunting Scenario (Assistance)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Assistance.md)**
