@@ -10,12 +10,12 @@ I'm new to cybersecurity, but I'm very passionate about it and love tackling com
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (The Great Admin Heist)](https://github.com/LukaGroff/Threat-Hunting-Scenario-The-Great-Admin-Heist/tree/main)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/LukaGroff/threat-hunting-scenario-tor/tree/main)**
-- **[Threat Hunting Scenario (Lurker)](https://github.com/LukaGroff/threat-hunting-scenario-lurker/tree/main)**
-- **[Threat Hunting Scenario (Papertrail)](https://github.com/LukaGroff/threat-hunting-scenario-Papertrail/tree/main)**
-- **[Threat Hunting Scenario (Virtual Machine Compromise)](https://github.com/LukaGroff/threat-hunting-scenario-SOC-Challenge-Virtual-Machine-Compromise/tree/main)**
-- **[Threat Hunting Scenario (Assistance)](https://github.com/LukaGroff/threat-hunting-scenario-Assistance/tree/main)**
+- **[Threat Hunting Scenario (The Great Admin Heist)](https://github.com/LukaGroff/Threat-Hunt/blob/main/The-Great-Admin-Heist.md)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Unauthorized%20TOR%20Usage.md)**
+- **[Threat Hunting Scenario (Lurker)](hhttps://github.com/LukaGroff/Threat-Hunt/blob/main/Lurker.md)**
+- **[Threat Hunting Scenario (Papertrail)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Papertrail.md)**
+- **[Threat Hunting Scenario (Virtual Machine Compromise)](https://github.com/LukaGroff/Threat-Hunt/blob/main/SOC%20Challenge%3A%20Virtual%20Machine%20Compromise.md)**
+- **[Threat Hunting Scenario (Assistance)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Assistance.md)**
 - **[Threat Hunting Scenario (Azuki Import/Export)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Azuki-soc-investigation.md)**
 
 
