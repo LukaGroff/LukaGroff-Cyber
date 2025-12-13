@@ -16,7 +16,9 @@ I'm new to cybersecurity, but I'm very passionate about it and love tackling com
 - **[Threat Hunting Scenario (Papertrail)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Papertrail.md)**
 - **[Threat Hunting Scenario (Virtual Machine Compromise)](https://github.com/LukaGroff/Threat-Hunt/blob/main/SOC%20Challenge%3A%20Virtual%20Machine%20Compromise.md)**
 - **[Threat Hunting Scenario (Assistance)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Assistance.md)**
-- **[Threat Hunting Scenario (Azuki Import/Export)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Azuki-soc-investigation.md)**
+- **[Threat Hunting Scenario (Azuki Port of entry)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Azuki-port-of-entry.md)**
+- **[Threat Hunting Scenario (Azuki Cargo Hold)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Azuki-cargo-hold.md)**
+
 
 
 
