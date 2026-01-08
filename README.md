@@ -19,6 +19,7 @@ I'm new to cybersecurity, but I'm very passionate about it and love tackling com
 - **[Threat Hunting Scenario (Azuki Port of entry)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Azuki-port-of-entry.md)**
 - **[Threat Hunting Scenario (Azuki Cargo Hold)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Azuki-cargo-hold.md)**
 - **[Threat Hunting Scenario (Azuki Bridge Takeover)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Bridge-takeover.md)**
+- **[Threat Hunting Scenario (Dead in the water)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Dead-in-the-water.md)**
 
 
 
