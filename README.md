@@ -21,6 +21,8 @@ I'm new to cybersecurity, but I'm very passionate about it and love tackling com
 - **[Threat Hunting Scenario (Azuki Bridge Takeover)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Bridge-takeover.md)**
 - **[Threat Hunting Scenario (Dead in the water)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Dead-in-the-water.md)**
 - **[Threat Hunting Scenario (CorpHealth: traceback)](https://github.com/LukaGroff/Threat-Hunt/blob/main/CorpHealth-traceback.md)**
+- **[Threat Hunting Scenario (Crosscheck)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Crosscheck.md)**
+
 
 
 
