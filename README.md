@@ -22,6 +22,9 @@ I'm new to cybersecurity, but I'm very passionate about it and love tackling com
 - **[Threat Hunting Scenario (Dead in the water)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Dead-in-the-water.md)**
 - **[Threat Hunting Scenario (CorpHealth: traceback)](https://github.com/LukaGroff/Threat-Hunt/blob/main/CorpHealth-traceback.md)**
 - **[Threat Hunting Scenario (Crosscheck)](https://github.com/LukaGroff/Threat-Hunt/blob/main/Crosscheck.md)**
+- **[Threat Hunting Scenario (The Broker)](https://github.com/LukaGroff/Threat-Hunt/blob/main/The-BROKER.md)**
+- **[Threat Hunting Scenario (The Buyer)](https://github.com/LukaGroff/Threat-Hunt/blob/main/The-Buyer.md)**
+
 
 
 
