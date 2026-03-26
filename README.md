@@ -26,7 +26,8 @@ I'm new to cybersecurity, but I'm very passionate about it and love tackling com
 - **[Threat Hunting Scenario (The Buyer)](https://github.com/LukaGroff/Threat-Hunt/blob/main/The-Buyer.md)**
 
 
-
+## ⚔️ Pentesting Labs
+- **[AWS and Web App Pentesting capstone Projects](https://github.com/LukaGroff/pentesting/blob/main/README.md)**
 
 
 
